@@ -3,7 +3,12 @@
 ![](/snoopy.gif)
   
   📫 Student at University of Illinois at Chicago majoring in Computer Science
+  
   ⚙️ C++, C, Python 
+
+  🌱 Currently learning data structures and algorithms
+
+  ⚡ My favorite music artist is Laufey
   
 
 
