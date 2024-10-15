@@ -1,4 +1,11 @@
-## Hi there 👋
+
+## Hi, I'm Daniel Dizon
+![](/snoopy.gif)
+  
+  📫 Student at University of Illinois at Chicago majoring in Computer Science
+  ⚙️ C++, C, Python 
+  
+
 
 <!--
 **cronusgk/cronusgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
