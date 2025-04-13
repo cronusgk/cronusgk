@@ -1,14 +1,14 @@
 
-## Hi, I'm Daniel Dizon
+## Hellooooo, I'm Daniel
 ![](/snoopy.gif)
   
   📫 Student at University of Illinois at Chicago majoring in Computer Science
   
-  ⚙️ C++, C, Python 
+  ⚙️ I am proficient in C++, C, Python, and Java
 
-  🌱 Currently learning data structures and algorithms
+  🌱 Currently learning software design and computer architecture
 
-  ⚡ My favorite music artist is Laufey
+  ⚡ Fun fact: My favorite music artist is Laufey
   
 
 
