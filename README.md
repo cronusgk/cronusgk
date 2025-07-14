@@ -1,5 +1,4 @@
 
-## Hellooooo, I'm Daniel
 ![](/snoopy.gif)
   
   📫 Student at University of Illinois at Chicago majoring in Computer Science
