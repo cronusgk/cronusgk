@@ -5,7 +5,7 @@
   
   ⚙️ I am proficient in C++, C, Python, and Java
 
-  🌱 Currently learning systems programming and advanced data structures
+  🌱 Currently learning systems programming and programming language design
 
   ⚡ Fun fact: My favorite music artist is Laufey
   
