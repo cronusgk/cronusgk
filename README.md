@@ -1,13 +1,15 @@
 
-![](/snoopy.gif)
-  
-  📫 Student at University of Illinois at Chicago majoring in Computer Science
-  
-  ⚙️ I am proficient in C++, C, Python, and Java
+![snoopster](/snoopy.gif)
 
-  🌱 Currently learning systems programming and programming language design
+currently:
 
-  ⚡ Fun fact: My favorite music artist is Laufey
+-  📫 computer science @ university of illinois at chicago
+  
+-  ⚙️ proficient in C++, C, Python, and Java
+
+- 🌱 learning systems programming and programming language design
+
+- ⚡ working on wics dev project, leetcode practice, and personal website
   
 
 
