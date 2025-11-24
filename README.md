@@ -1,5 +1,5 @@
 
-![snoopster](/snoopy.gif)
+![Header](./your-header-image-name.png)
 
 currently:
 
