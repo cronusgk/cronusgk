@@ -7,9 +7,9 @@ currently:
   
 -  ⚙️ proficient in C++, C, Python, and Java
 
-- 🌱 learning systems programming and programming language design
+- 🌱 learning operating systems and concurrent programming
 
-- ⚡ working on wics dev project, leetcode practice, and personal website
+- ⚡ working on leetcode practice and personal Discord bot.
   
 
 
